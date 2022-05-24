@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">RydoShare</string>
+    <string name="logout">Logout</string>
+    <string name="are_you_a_provider_or_passenger">Are you a Provider or Passenger</string>
+    <string name="post_a_trip_as_a_provider">Post a trip as a provider</string>
+    <string name="find_a_ride_as_a_passenger">Find a ride as a passenger</string>
+    <string name="name">Name</string>
+    <string name="origin">Origin</string>
+    <string name="destination">Destination</string>
+    <string name="mobile_number">Mobile Number</string>
+    <string name="date">Date</string>
+    <string name="time">Time</string>
+    <string name="price">Price $</string>
+    <string name="save">SAVE</string>
+    <string name="find_your_ride">Find your ride</string>
+    <string name="passengerdestination">Destination</string>
+    <string name="passengersource">Source</string>
+    <string name="passengerlogout">Logout</string>
+    <string name="remember_me">remember_me</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="get_picture">Get Picture</string>
+
+    <string name="take_picture">Take a New Picture</string>
+    <string name="clickpicture">ClickPicture</string>
+    <string name="choose_from_gallery">Choose from Gallery</string>
+    <string name="cancel">Cancel</string>
+</resources>

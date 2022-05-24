@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "648983129621",
+    "project_id": "rydoshare-android-app",
+    "storage_bucket": "rydoshare-android-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:648983129621:android:0f60941b0af835dac9681c",
+        "android_client_info": {
+          "package_name": "com.example.rydoshare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "648983129621-8a6he4e7fi0pn6f3dj9csknuk02026fj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAc_PS062Cu0foq8zRK75Z3OIXijFxTFE4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "648983129621-8a6he4e7fi0pn6f3dj9csknuk02026fj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
